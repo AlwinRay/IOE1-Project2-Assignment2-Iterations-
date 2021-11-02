@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "/Users/dougwhitton/Documents/ML5js/imageClassifier"
+		},
+		{
+			"path": "/Users/dougwhitton/Documents/ML5js/videoCapture"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "videoCapture"
+	}
+}
